@@ -1,0 +1,14 @@
+C:\VSCode\Other\C# Academy\AlexMathGame\obj\Debug\net8.0\AlexMathGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode\Other\C# Academy\AlexMathGame\obj\Debug\net8.0\AlexMathGame.AssemblyInfoInputs.cache
+C:\VSCode\Other\C# Academy\AlexMathGame\obj\Debug\net8.0\AlexMathGame.AssemblyInfo.cs
+C:\VSCode\Other\C# Academy\AlexMathGame\obj\Debug\net8.0\AlexMathGame.csproj.CoreCompileInputs.cache
+C:\VSCode\Other\C# Academy\AlexMathGame\bin\Debug\net8.0\AlexMathGame.exe
+C:\VSCode\Other\C# Academy\AlexMathGame\bin\Debug\net8.0\AlexMathGame.deps.json
+C:\VSCode\Other\C# Academy\AlexMathGame\bin\Debug\net8.0\AlexMathGame.runtimeconfig.json
+C:\VSCode\Other\C# Academy\AlexMathGame\bin\Debug\net8.0\AlexMathGame.dll
+C:\VSCode\Other\C# Academy\AlexMathGame\bin\Debug\net8.0\AlexMathGame.pdb
+C:\VSCode\Other\C# Academy\AlexMathGame\obj\Debug\net8.0\AlexMathGame.dll
+C:\VSCode\Other\C# Academy\AlexMathGame\obj\Debug\net8.0\refint\AlexMathGame.dll
+C:\VSCode\Other\C# Academy\AlexMathGame\obj\Debug\net8.0\AlexMathGame.pdb
+C:\VSCode\Other\C# Academy\AlexMathGame\obj\Debug\net8.0\AlexMathGame.genruntimeconfig.cache
+C:\VSCode\Other\C# Academy\AlexMathGame\obj\Debug\net8.0\ref\AlexMathGame.dll
